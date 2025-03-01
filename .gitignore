@@ -1,0 +1,8 @@
+.venv/
+.env
+Files/
+Airflow/logs/
+Airflow/plugins/
+Airflow/databse/
+Analytical SQL Queries/
+Airflow/dags/__pycache__/
